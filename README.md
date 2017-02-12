@@ -3,4 +3,4 @@ PRM (Parameter Relational Mapping)'s Framework that eases SQL queries and CRUD o
 
 # Toussaint
 A Minimalist Frameworks that check forms conformity before their submission to server, 
-manage server returns (error, message & response from server), and so much more (utils library including Google Maps generic utils functions)   
+manage server returns/response (error, message & results from server), and so much more (utils library including Google Maps generic utils functions)   
